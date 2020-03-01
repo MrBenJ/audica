@@ -1,6 +1,6 @@
 {
   "name": "audica",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extract waveform and frequency data from any audio source to create beautiful audio visualizations",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
