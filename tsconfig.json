@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "declaration": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+  },
+  "include": [
+    "src/**/*",
+  ]
+}
