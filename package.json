@@ -5,7 +5,7 @@
     "email": "bjunya@gmail.com",
     "url": "https://modernjsbyexample.net"
   },
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Extract waveform and frequency data from any audio source to create beautiful audio visualizations",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
