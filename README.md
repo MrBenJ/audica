@@ -2,6 +2,8 @@
 
 Extract Bytetime/Frequency data from audio or video elements, to create awesome audio visualizations.
 
+[Demo site here](http://audica.surge.sh)
+
 ## What is it?
 
 Audica is a lightweight abstraction around `AudioContext` and `webkitAudioContext`. It allows for quick and easy extraction of data via `WebAudioAPI`'s `AnalyserNode` to capture data into an array so you can easily create fun and beautiful audio visualizations.

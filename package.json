@@ -1,11 +1,21 @@
 {
   "name": "audica",
+  "author": {
+    "name": "Ben Junya",
+    "email": "bjunya@gmail.com",
+    "url": "https://modernjsbyexample.net"
+  },
   "version": "0.2.0",
   "description": "Extract waveform and frequency data from any audio source to create beautiful audio visualizations",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
+  },
+  "homepage": "http://audica.surge.sh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrBenJ/audica"
   },
   "keywords": [
     "audio",
@@ -15,7 +25,6 @@
     "webaudio",
     "audiocontext"
   ],
-  "author": "Ben Junya",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^13.7.7",
