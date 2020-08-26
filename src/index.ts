@@ -19,7 +19,7 @@ interface AudicaOptions {
 
   /**
    * The Audio or video element to draw audio data from. This value cannot
-   * be null or falsy.
+   * be null or falsy. This is a required value
    * @required
    */
   element: (HTMLAudioElement | HTMLVideoElement);
